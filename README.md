@@ -1,5 +1,5 @@
 ## 🐯 NeverSleepTiger (PC 절전 모드 방지 도구)
-NeverSleepTiger는 윈도우 커널 신호를 직접 제어하여 시스템이 절전 모드로 진입하는 것을 방지하는 초경량 유틸리티입니다.
+NeverSleepTiger는 윈도우 커널 신호를 제어하여 PC가 절전 모드로 진입하는 것을 방지하는 초경량 유틸리티입니다.
 
 ## ⚡ 사용법
 1. NeverSleepTiger.exe 파일 다운로드
